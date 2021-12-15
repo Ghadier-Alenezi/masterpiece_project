@@ -1,6 +1,5 @@
 # masterpiece_project
 ## User Story
----
 * Signup: As an anon I can sign up in the platform so that I can start communicate with a specialists in autism disorders and other parent of an autisitc child.
 * Login: As a user I can login to the platform so that I can log previos conversations and saved articals, reseaches, videos
 * Logout: As a user I can logout from the platform so no one else can use it
