@@ -12,5 +12,5 @@
 - Edit User As a user I can edit my profile.
 - Private chat: As a user I can chat privately with a specialist or any other users.
 - Delete Messages As a user I can delete my private messages.
-- Admin: As a admin I can check registration of the specialist, whether have an accredited certification in any field that related to child and parents health, educate, communicate, therapy and other services.
+- Admin: As an admin I can check registration of the specialist, whether have an accredited certification in any field that related to child and parents health, educate, communicate, therapy and other services.
 - Admin Delete: As an admin I can delete any user or specialist or any post.
